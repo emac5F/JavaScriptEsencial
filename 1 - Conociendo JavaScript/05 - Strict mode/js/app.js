@@ -1,4 +1,4 @@
-"use strict"
+"use strict"//modo estricto activos, siempre debe estar en la 1ra linea
 
 
 // alert('Hola desde un archivo externo');

@@ -1,6 +1,6 @@
 "use strict"
 
-var nombre = 'Sergio';
+var nombre = 'Edith';
 
 console.log(nombre)
 

@@ -6,6 +6,7 @@ var comida = 'ceviche';
 
 var instrucción = "El platillo se llama 'ceviche' ";
 
-var edad = 34;
+var edad = 25;
 
+//convertir edad a una cadena de texto
 var edadtxt = String(edad)
