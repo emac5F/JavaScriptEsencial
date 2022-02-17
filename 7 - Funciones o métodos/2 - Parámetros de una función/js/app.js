@@ -11,6 +11,6 @@ function saludar(nombre, edad) {
 	return resultado;
 }
 
-var mensaje = saludar("yacaFx", 34);
+var mensaje = saludar("Edith", 25);
 
 console.log(mensaje)
